@@ -1,0 +1,34 @@
+Pinging google.com...
+PING google.com (74.125.131.102) 56(84) bytes of data.
+64 bytes from lu-in-f102.1e100.net (74.125.131.102): icmp_seq=1 ttl=100 time=59.2 ms
+64 bytes from lu-in-f102.1e100.net (74.125.131.102): icmp_seq=2 ttl=100 time=75.0 ms
+64 bytes from lu-in-f102.1e100.net (74.125.131.102): icmp_seq=3 ttl=100 time=94.4 ms
+64 bytes from lu-in-f102.1e100.net (74.125.131.102): icmp_seq=4 ttl=100 time=60.7 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3009ms
+rtt min/avg/max/mdev = 59.191/72.307/94.365/14.150 ms
+
+Pinging yandex.ru...
+PING yandex.ru (77.88.44.55) 56(84) bytes of data.
+64 bytes from yandex.ru (77.88.44.55): icmp_seq=1 ttl=242 time=40.1 ms
+64 bytes from yandex.ru (77.88.44.55): icmp_seq=2 ttl=242 time=88.9 ms
+64 bytes from yandex.ru (77.88.44.55): icmp_seq=3 ttl=242 time=56.0 ms
+64 bytes from yandex.ru (77.88.44.55): icmp_seq=4 ttl=242 time=38.7 ms
+
+--- yandex.ru ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 2998ms
+rtt min/avg/max/mdev = 38.663/55.920/88.946/20.241 ms
+
+Pinging microsoft.com...
+PING microsoft.com (20.76.201.171) 56(84) bytes of data.
+64 bytes from 20.76.201.171: icmp_seq=1 ttl=99 time=201 ms
+64 bytes from 20.76.201.171: icmp_seq=2 ttl=99 time=200 ms
+64 bytes from 20.76.201.171: icmp_seq=3 ttl=99 time=202 ms
+64 bytes from 20.76.201.171: icmp_seq=4 ttl=99 time=200 ms
+
+--- microsoft.com ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 2998ms
+rtt min/avg/max/mdev = 200.205/200.911/201.834/0.709 ms
+
+All pings completed.
